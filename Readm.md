@@ -1,3 +1,3 @@
 Curso de GI
-aula teste 
-mais uma linha de teste.
+aula teste mais uma linha de teste.
+outra linha de aprendizado.
